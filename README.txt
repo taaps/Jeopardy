@@ -1,0 +1,1 @@
+This repository contains the source code for the game Jeopardy. It is written in Verilog and uses and Altera FPGA and VGA screen to play.
